@@ -1,0 +1,1 @@
+A simple browser app using HTML, CSS & vanilla Javscript that allows the user to manually input the hex values of a background color they would like to see on the webpage. Basic color terms such as "blue", "light yellow", etc. will also be recognized.
